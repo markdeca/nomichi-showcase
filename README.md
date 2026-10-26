@@ -1,12 +1,12 @@
-<p align="center"><img src="media/logo.png" width="128" alt="Michi logo"></p>
+<p align="center"><img src="media/logo.png" width="128" alt="Nomichi logo"></p>
 
-<h1 align="center">Michi 道</h1>
+<h1 align="center">Nomichi 野道</h1>
 
 <p align="center"><i>Learn Japanese the way it is written: only the kanji you know, everything else in hiragana.</i></p>
 
-**Michi** ("the way") is a Flutter app for learning Japanese, for iOS and Android. A single **profile of the kanji you know** drives every screen: you see a kanji in a text only once you have studied it, and everything else stays in hiragana with furigana. The guided path, the reviews and the handwriting practice all follow that profile. It works offline, and the handwriting checks run on the device.
+**Nomichi** (野道, "a path through the fields") is a Flutter app for learning Japanese, for iOS and Android. A single **profile of the kanji you know** drives every screen: you see a kanji in a text only once you have studied it, and everything else stays in hiragana with furigana. The guided path, the reviews and the handwriting practice all follow that profile. It works offline, and the handwriting checks run on the device.
 
-> 🇮🇹 *Michi (道, "la via"): un'app per imparare il giapponese che mostra solo i kanji che conosci e scrive il resto in hiragana. Lezioni a dialoghi con traduzione letterale e naturale, rōmaji ovunque, scrittura col dito corretta tratto per tratto, ripasso a intervalli. Funziona offline.*
+> 🇮🇹 *Nomichi (野道, "il sentiero fra i campi"): un'app per imparare il giapponese che mostra solo i kanji che conosci e scrive il resto in hiragana. Lezioni a dialoghi con traduzione letterale e naturale, rōmaji ovunque, scrittura col dito corretta tratto per tratto, ripasso a intervalli. Funziona offline.*
 
 <p align="center">
   <img src="media/writing.gif" width="270" alt="Writing 日 with a finger: stroke-order animation, tracing, then writing from memory with a stroke-order mistake caught">
@@ -65,7 +65,7 @@
 
 ## 📱 Status
 
-Michi is in active development. It runs on iOS and Android, and comes with the full kana, the 79 N5 kanji and the first 10 N5 lessons. Next comes conversation with on-device AI (Apple Foundation Models, Gemini Nano), with replies held to the kanji profile, then the rest of N5. Publication on the App Store and Google Play is planned.
+Nomichi is in active development. It runs on iOS and Android, and comes with the full kana, the 79 N5 kanji and the first 10 N5 lessons. Next comes conversation with on-device AI (Apple Foundation Models, Gemini Nano), with replies held to the kanji profile, then the rest of N5. Publication on the App Store and Google Play is planned.
 
 ## 🙏 Data credits
 
