@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="media/screen2.jpg" width="200" alt="Lesson 1 with the 'My kanji' profile before studying any kanji: everything in hiragana, highlighted">
-  <img src="media/screen3.jpg" width="200" alt="The same lesson with the N5 profile: N5 kanji appear with furigana, 会社員 stays in highlighted hiragana">
+  <img src="media/screen2.jpg" width="200" alt="Lesson 1 at level N5: N5 kanji with furigana, 会社員 and 田中 in highlighted hiragana">
+  <img src="media/screen3.jpg" width="200" alt="The same lesson at level N4: 会社員 and 田中 now appear in kanji">
 </p>
-<p align="center"><sub>The same dialogue with no kanji studied and with the N5 profile. Words whose kanji you don't know yet get a soft yellow highlight, and tapping them shows the original.</sub></p>
+<p align="center"><sub>The same dialogue at level N5 and at level N4. Words whose kanji you don't know yet get a soft yellow highlight, and tapping them shows the original.</sub></p>
 
 <p align="center">
   <img src="media/screen1.jpg" width="160" alt="Home: the app name in a Japanese landscape, next lesson, kanji profile, conversation and grammar">
@@ -34,7 +34,7 @@
 
 ## ✨ Features
 
-- **A kanji profile instead of a "level"**: by default the app shows only the kanji you have studied in it ("My kanji"). You can also pick a JLPT level (N5, N4, N3) and see every kanji of that level. The check is done by code on every sentence, so a text never contains a kanji above your profile.
+- **Texts that follow your level**: you pick a JLPT level (N5, N4, N3) and every text shows only the kanji of that level, plus any kanji you have studied in the app. The check is done by code on every sentence, so a text never contains a kanji above your profile.
 - **40 N5 lessons covering the whole N5 vocabulary** (717 words, measured by a script against the JLPT lists): each dialogue line has furigana, rōmaji, a word-by-word literal translation and a natural Italian translation, and each can be hidden. Grammar notes come with examples, and every Japanese word in them carries its rōmaji. Polite forms come first (*dewa arimasen*), spoken and casual forms later; texts grow longer lesson after lesson, up to a diary written in plain form.
 - **Grammar guide, always at hand**: every grammar point of the course on one page, searchable in Italian, Japanese or rōmaji ("te kudasai", "passato", "から").
 - **Fill-in exercises**: at the end of each lesson, ten sentences with a missing word or particle to type in rōmaji, kana or kanji. Long vowels are forgiven (*tokyo* counts for *Tōkyō*), and the solution shows reading, rōmaji and audio.
