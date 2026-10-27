@@ -9,34 +9,33 @@
 > 🇮🇹 *Nomichi (野道, "il sentiero fra i campi"): un'app per imparare il giapponese che mostra solo i kanji che conosci e scrive il resto in hiragana. 71 lezioni a dialoghi su tutto il vocabolario N5 e N4, con traduzione letterale e naturale e rōmaji ovunque; grammatica sempre consultabile, esercizi, scrittura col dito corretta tratto per tratto, ripasso a scelta multipla, ascolto e ripetizione ad alta voce, letture a livello, «Giapponese pratico» per la vita in Giappone, preparazione al JLPT N5 e conversazione con l'IA del telefono. Funziona offline.*
 
 <p align="center">
-  <img src="media/writing.gif" width="270" alt="Writing 日 with a finger: stroke-order animation, tracing, then writing from memory with a stroke-order mistake caught">
+  <img src="media/handwriting.gif" width="270" alt="Writing 日 with a finger: stroke-order animation, tracing, then writing from memory with a stroke-order mistake caught">
 </p>
 
 <p align="center">
-  <img src="media/screen2.jpg" width="200" alt="Lesson 1 at level N5: N5 kanji with furigana, 会社員 and 田中 in highlighted hiragana">
-  <img src="media/screen3.jpg" width="200" alt="The same lesson at level N4: 会社員 and 田中 now appear in kanji">
+  <img src="media/lesson-n5.jpg" width="200" alt="Lesson 1 at level N5: N5 kanji with furigana, 田中 in highlighted hiragana">
+  <img src="media/lesson-n4.jpg" width="200" alt="The same lesson at level N4: 田中 now appears in kanji">
 </p>
 <p align="center"><sub>The same dialogue at level N5 and at level N4. Words whose kanji you don't know yet get a soft yellow highlight, and tapping them shows the original.</sub></p>
 
 <p align="center">
-  <img src="media/screen1.jpg" width="160" alt="Home: the app name in a Japanese landscape, next lesson, today's review and a grid of sections">
-  <img src="media/screen9.jpg" width="160" alt="Lesson 14 with the N5 profile: kanji with furigana, rōmaji, literal and natural translation">
-  <img src="media/screen7.jpg" width="160" alt="Fill-in exercise: the missing particle typed in rōmaji and checked">
-  <img src="media/screen8.jpg" width="160" alt="N5 grammar guide with search, rōmaji on every Japanese word">
-  <img src="media/screen4.jpg" width="160" alt="The N5 kanji grouped by the lesson that introduces them">
-  <img src="media/screen5.jpg" width="160" alt="Stroke order of 日, with a button to hear its readings">
-  <img src="media/screen6.jpg" width="160" alt="Hiragana table">
+  <img src="media/home.jpg" width="160" alt="Home: the app name in a Japanese landscape, next lesson, today's review and a grid of sections">
+  <img src="media/review.jpg" width="160" alt="Multiple-choice review: the right answer in green, with reading and meaning">
+  <img src="media/reading.jpg" width="160" alt="A graded reading that uses only the words of the lessons done so far, with N5 kanji and highlighted hiragana">
+  <img src="media/jlpt.jpg" width="160" alt="JLPT practice: reading of the underlined kanji, with the solution and its explanation">
 </p>
-
 <p align="center">
-  <img src="media/screen11.jpg" width="160" alt="Practical Japanese: seven everyday scenes with comic-style illustrations drawn in code">
-  <img src="media/screen10.jpg" width="160" alt="The convenience-store scene: what the clerk says, with rōmaji and translation, and your replies">
-  <img src="media/screen12.jpg" width="160" alt="A graded reading that uses only the words of the lessons done so far, with N5 kanji and highlighted hiragana">
-  <img src="media/screen13.jpg" width="160" alt="Multiple-choice review: the right answer in green, with reading and meaning">
+  <img src="media/practical.jpg" width="160" alt="Practical Japanese: seven everyday scenes with comic-style illustrations drawn in code">
+  <img src="media/konbini.jpg" width="160" alt="The convenience-store scene: what the clerk says, with rōmaji and translation, and your replies">
+  <img src="media/exercise.jpg" width="160" alt="Fill-in exercise: the missing word, checked, with the right answer and its rōmaji">
+  <img src="media/grammar.jpg" width="160" alt="Grammar guide by level with search, rōmaji on every Japanese word">
 </p>
-<p align="center"><sub>Practical Japanese, graded readings and the multiple-choice review.</sub></p>
+<p align="center">
+  <img src="media/kanji.jpg" width="160" alt="The N5 and N4 kanji, grouped by the lesson that introduces them">
+  <img src="media/kana.jpg" width="160" alt="Hiragana table, row by row">
+</p>
 
-<p align="center">▶️ <a href="media/demo.mp4"><b>Watch the 20-second handwriting demo</b></a></p>
+<p align="center">▶️ <a href="media/handwriting.mp4"><b>Watch the 20-second handwriting demo</b></a></p>
 
 ---
 
