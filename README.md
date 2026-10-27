@@ -42,10 +42,10 @@
 - **Listening and speaking**: a listening mode plays the dialogues one line after another with the text hidden; "Repeat aloud" plays a line, listens to you through the phone's speech recognition and marks the words it recognised, comparing readings rather than spelling.
 - **Graded readings**: short stories that unlock after a given lesson and use only the words and grammar seen so far, with comprehension questions. A build-time check flags any word or grammar form that comes too early.
 - **Practical Japanese**: everyday scenes (convenience store, restaurant, station, hotel, pharmacy, post office, police box) with comic-style illustrations drawn in code, the set phrases staff will say to you and how to answer.
-- **JLPT N5 preparation**: original questions in the exam format (kanji reading, orthography, vocabulary, grammar, sentence order, reading, listening), practice by question type and a timed mock exam scored out of 180.
+- **JLPT N5 and N4 preparation**: original questions in the exam format (kanji reading, orthography, vocabulary, grammar, sentence order, reading, listening), practice by question type and a timed mock exam scored out of 180.
 - **Handwriting with the finger, checked stroke by stroke**: for every kana and kanji you watch the stroke order, trace over the model, then write from memory. The app tells you what went wrong: "stroke 3 goes the other way", "this is stroke 3, stroke 2 comes first". After two mistakes on the same stroke it shows a hint.
 - **All the kana**: the 46 basic hiragana and katakana, voiced and semi-voiced sounds (が, ぱ), combinations (きゃ, しゅ), small っ and the long-vowel mark ー. There are pronunciation notes where Italian speakers usually stumble (し, つ, ふ, ら).
-- **The 80 N5 kanji**: each one has its Italian meaning, its main on/kun readings in kana and rōmaji, and example words with furigana. They are introduced inside the lesson that first uses them.
+- **The 80 N5 and 166 N4 kanji**: each one has its Italian meaning, its main on/kun readings in kana and rōmaji, and example words with furigana. They are introduced inside the lesson that first uses them.
 - **Spaced repetition as a quiz**: words, dialogue lines, kana and kanji go into an SM-2-style review with three-choice questions, graded automatically. You can review everything or one card type, keep going after 20 cards, or practise freely without touching the schedule.
 - **"Second wave"**: five lessons later, an old lesson comes back in reverse. You see the Italian and say it in Japanese, and any line you miss goes straight back into today's review.
 - **Audio** from the phone's Japanese voices, at four speeds, for single lines or the whole dialogue. Single words and kanji are read from their kana reading, so 何 is never read as *ka*.
@@ -76,7 +76,7 @@
 
 ## 📱 Status
 
-Nomichi is in active development. It runs on iOS and Android, with the full kana, the 80 N5 kanji, the complete N5 and N4 courses (71 lessons), the grammar guide, exercises, readings, Practical Japanese and JLPT N5 preparation. Conversation with on-device AI works on both platforms. Next come the 166 N4 kanji for handwriting, JLPT N4 and the N3 course. Publication on the App Store and Google Play is planned.
+Nomichi is in active development. It runs on iOS and Android, with the full kana, the 246 N5 and N4 kanji, the complete N5 and N4 courses (71 lessons), the grammar guide, exercises, readings, Practical Japanese and JLPT N5 and N4 preparation. Conversation with on-device AI works on both platforms. Next comes the N3 course. Publication on the App Store and Google Play is planned.
 
 ## 🙏 Data credits
 
