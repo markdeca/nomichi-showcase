@@ -19,7 +19,7 @@
 <p align="center"><sub>The same dialogue at level N5 and at level N4. Words whose kanji you don't know yet get a soft yellow highlight, and tapping them shows the original.</sub></p>
 
 <p align="center">
-  <img src="media/screen1.jpg" width="160" alt="Home: the app name in a Japanese landscape, next lesson, kanji profile, conversation and grammar">
+  <img src="media/screen1.jpg" width="160" alt="Home: the app name in a Japanese landscape, next lesson, today's review and a grid of sections">
   <img src="media/screen9.jpg" width="160" alt="Lesson 14 with the N5 profile: kanji with furigana, rōmaji, literal and natural translation">
   <img src="media/screen7.jpg" width="160" alt="Fill-in exercise: the missing particle typed in rōmaji and checked">
   <img src="media/screen8.jpg" width="160" alt="N5 grammar guide with search, rōmaji on every Japanese word">
@@ -27,6 +27,14 @@
   <img src="media/screen5.jpg" width="160" alt="Stroke order of 日, with a button to hear its readings">
   <img src="media/screen6.jpg" width="160" alt="Hiragana table">
 </p>
+
+<p align="center">
+  <img src="media/screen11.jpg" width="160" alt="Practical Japanese: seven everyday scenes with comic-style illustrations drawn in code">
+  <img src="media/screen10.jpg" width="160" alt="The convenience-store scene: what the clerk says, with rōmaji and translation, and your replies">
+  <img src="media/screen12.jpg" width="160" alt="A graded reading that uses only the words of the lessons done so far, with N5 kanji and highlighted hiragana">
+  <img src="media/screen13.jpg" width="160" alt="Multiple-choice review: the right answer in green, with reading and meaning">
+</p>
+<p align="center"><sub>Practical Japanese, graded readings and the multiple-choice review.</sub></p>
 
 <p align="center">▶️ <a href="media/demo.mp4"><b>Watch the 20-second handwriting demo</b></a></p>
 
